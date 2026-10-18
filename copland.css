@@ -153,7 +153,8 @@ html.dark body.dark-theme {
 
 /* page titles in Lain's purple glow */
 html.dark .page-title,
-html.dark .ls-page-title .title,
+html.dark .ls-page-title,
+html.dark .ls-page-title .block-content,
 html.dark h1.title {
   color: var(--co-12);
   text-shadow: 0 0 6px rgba(143, 31, 255, 0.55);
