@@ -1,0 +1,19 @@
+{
+  "name": "logseq-theme-copland-os",
+  "version": "0.1.0",
+  "description": "Copland OS: a Serial Experiments Lain theme, from the kitty theme by CrystalPixie",
+  "author": "Yuxi Liu",
+  "license": "MIT",
+  "logseq": {
+    "id": "logseq-theme-copland-os",
+    "title": "Copland OS",
+    "themes": [
+      {
+        "name": "Copland OS",
+        "url": "./copland.css",
+        "description": "Serial Experiments Lain, deep navy and wired blue",
+        "mode": "dark"
+      }
+    ]
+  }
+}
